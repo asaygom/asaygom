@@ -1,4 +1,4 @@
-# Hi! my names is Alexis Sayago 👋
+# Hi! my name is Alexis Sayago 👋
 ### Full-stack software engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/asaygom?style=social)](https://twitter.com/asaygom)
