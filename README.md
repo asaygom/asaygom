@@ -1,6 +1,10 @@
 # Hi! my name is Alexis Sayago 👋
 ### Full-stack software engineer
+Civil engineer focused on process automation and resource optimization, constantly learning about new technologies, currently looking for challenges in software development.
 
+5 years of experience in project planning, monitoring, progress control, database management and data analysis. Making use of Last Planner methodologies and BIM coordination.
+
+Among the latest skills acquired, I would highlight knowledge in HTML5, CSS, JavaScript, Bootstrap, GIT, GitHub and React. At the same time learning Python, Flask, SQL and API management.
 [![Twitter Follow](https://img.shields.io/twitter/follow/asaygom?style=social)](https://twitter.com/asaygom)
 ![GitHub Followers](https://img.shields.io/github/followers/asaygom?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/asaygom?style=social)
