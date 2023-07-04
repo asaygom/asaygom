@@ -4,7 +4,7 @@ Civil engineer focused on process automation and resource optimization, constant
 
 5 years of experience in project planning, monitoring, progress control, database management and data analysis. Making use of Last Planner methodologies and BIM coordination.
 
-Among the latest skills acquired, I would highlight knowledge in HTML5, CSS, Bootstrap, JavaScript, React, GIT, GitHub and API management. At the same time learning Python, Flask, SQL, and more.
+Among the latest skills acquired, I would highlight knowledge in HTML5, CSS, Bootstrap, JavaScript, React, GIT, GitHub, API management, Python, Flask, SQL, and more.
 
 
 ## Technologies
