@@ -22,5 +22,3 @@ And more...
 
 ## Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Sayago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/asaygom)
-[![Twitter](https://img.shields.io/badge/Twitter-@asaygom-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/asaygom)
-[![Instagram](https://img.shields.io/badge/Instagram-@asaygom-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/asaygom)
