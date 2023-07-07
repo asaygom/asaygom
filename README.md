@@ -21,4 +21,4 @@ Among the latest skills acquired, I would highlight knowledge in HTML5, CSS, Boo
 And more...
 
 ## Find me on:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis_Sayago-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/asaygom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/asaygom)
