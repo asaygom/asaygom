@@ -1,10 +1,8 @@
 # Hi! my name is Alexis Sayago 👋
 ### Full-stack software engineer
-Civil engineer focused on process automation and resource optimization, constantly learning about new technologies, currently looking for challenges in software development.
+Civil engineer focused on process automation and resource optimization, currently looking for challenges in software development. Experienced in full-stack web application development, ranging from frontend with JavaScript and React, to backend with Python and Flask. Proficient in languages and tools like HTML, CSS, Bootstrap, JavaScript, React, GIT, GitHub, API handling, Python, Flask, SQL, and more.
 
-5 years of experience in project planning, monitoring, progress control, database management and data analysis. Making use of Last Planner methodologies and BIM coordination.
-
-Among the latest skills acquired, I would highlight knowledge in HTML5, CSS, Bootstrap, JavaScript, React, GIT, GitHub, API management, Python, Flask, SQL, and more.
+5 years of experience in project planning, tracking, progress control, database management and data analysis. Making use of Agile and Last Planner methodologies, as well as BIM coordination.
 
 
 ## Technologies and tools
