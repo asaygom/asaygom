@@ -1,9 +1,16 @@
-# Hi! my name is Alexis Sayago 👋
-### Full-stack software engineer
-Civil engineer focused on process automation and resource optimization, currently looking for challenges in software development. Experienced in full-stack web application development, ranging from frontend with JavaScript and React, to backend with Python and Flask. Proficient in languages and tools like HTML, CSS, Bootstrap, JavaScript, React, GIT, GitHub, API handling, Python, Flask, SQL, and more.
+# Alexis Sayago — Data Analyst (Power BI · SQL · basic Python)
 
-5 years of experience in project planning, tracking, progress control, database management and data analysis. Making use of Agile and Last Planner methodologies, as well as BIM coordination.
+I help engineering/construction teams turn messy progress data into clear decisions.
 
+## Projects
+- **P1 · Plan vs Actual (Power BI)** — weekly KPIs, variance & pace index. [PDF] [screenshots]
+- **P2 · Schedule Comparator (Python)** — baseline vs update → CSV/HTML report.
+- **P3 · Comparison UI (Streamlit/Next.js)** — upload 2 files → diffs & download.
+
+## Stack
+Power BI (DAX, modeling), SQL, Python (pandas), Power Query → Python path.
+
+*Open to remote and DK/NO relocation · EN/ES*
 
 ## Technologies and tools
 <p align="left">
