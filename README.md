@@ -1,41 +1,46 @@
-# Alexis Sayago — Data Analyst (Power BI · SQL · Python)
+# Alexis Sayago — Data Analyst (Power BI · Fabric · SQL · Python)
 
-I help engineering and construction teams turn messy progress data into clear decisions.
+I help engineering & construction teams turn messy progress and energy/supply data into clear decisions.  
+*Open to remote and DK/SE/NO relocation · EN/ES*
 
-*Open to remote and DK/NO relocation · EN/ES*
+---
 
-## Projects that I'm working on
-- **P1 · Plan vs Actual (Power BI)** – weekly KPIs, variance and a simple pace index. 
-- **P2 · Schedule Comparator (Python)** – baseline vs update → CSV/HTML report. 
-- **P3 · Comparison UI (Streamlit/Next.js)** – upload 2 files → diffs and download. 
+## 🚀 Latest
+**P2 — Nordic Infrastructure Sustainability v0.9 (Power BI + Fabric)**  
+End-to-end demo to track **Energy, CO₂e, Cost, Delay** by city/asset with **Executive** and **What-if** pages.  
+**Fabric path:** Lakehouse (Delta) → Semantic Model (Direct Lake) → thin report (live).  
+- Repo: https://github.com/asaygom/p2-nordic-infra-sustainability-fabric-powerbi  
+- One-pager (PDF) & 90s GIF: see `/media` in the repo
+
+---
+
+## Projects (active)
+- **P1 · Plan vs Actual (Power BI)** — weekly KPIs, variance %, simple pace index.
+- **P2 · Nordic Infra Sustainability (Power BI + Fabric)** — plan vs actual, What-if (±20%), Direct Lake lineage.
+- **P3 · Supply Chain (Power BI + SQL + Python)** — inventory & demand analytics: OTIF, stockouts, lead-time variability, safety stock & reorder points; Python/SQL ETL → Power BI model.
+
+---
 
 ## Stack
-Power BI (DAX, modeling), SQL, Python (pandas) for data prep and light automation.
-
-## Technologies (core)
-- Power BI, DAX, Power Query
-- SQL
-- Python (pandas)
-- Streamlit or Next.js for simple UIs
+- **Power BI** (DAX, data modeling, Power Query), **Microsoft Fabric** (Lakehouse, Semantic/Direct Lake)
+- **SQL**, **Python (pandas)** for data prep and light automation
 
 <details>
   <summary>Extended toolset (past use / learning)</summary>
 
-<p align="left">
-  <!-- Keep this section collapsed to avoid diluting DA focus -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python logo" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React logo" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js logo" width="40" height="40"/>
-  </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+Bash · Git · Streamlit · Next.js · React/JS/TS/Angular
+
 </details>
+
+---
+
+## Selected capabilities
+- Star-schema modeling and KPI design (variance/%, YTD/MTD/QTD)
+- What-if analysis in Power BI (scenario sliders, adjusted KPIs)
+- Fabric lineage: Lakehouse → Semantic (Direct Lake) → thin reports
+- Lightweight automation (Python/pandas) and SQL-backed ETL for BI
+
+---
 
 ## Find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaygom)
